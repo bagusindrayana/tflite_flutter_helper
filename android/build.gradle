@@ -26,7 +26,7 @@ apply plugin: 'kotlin-android'
 
 android {
     compileSdkVersion 34
-    namespace = "com.bagusindrayana.tflite_flutter_helper"
+    namespace = "com.tfliteflutter.tflite_flutter_helper"
 
     sourceSets {
         main.java.srcDirs += 'src/main/kotlin'
